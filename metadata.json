@@ -1,0 +1,6 @@
+{
+  "name": "JyotishVeda",
+  "description": "Vedic birth chart (Kundali) reading, Shodashvarga calculations, planetary behavior insights, practical remedies, transits & astrological AI guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

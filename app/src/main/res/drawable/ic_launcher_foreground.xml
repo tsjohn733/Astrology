@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Sacred Vedic Diamond Kundali Frame -->
+    <path
+        android:strokeColor="#F5D061"
+        android:strokeWidth="2.5"
+        android:strokeLineJoin="round"
+        android:fillColor="#151E32"
+        android:pathData="M 54,24 L 84,54 L 54,84 L 24,54 Z" />
+    <!-- Diagonal Cross Lines -->
+    <path
+        android:strokeColor="#E6AF2E"
+        android:strokeWidth="1.5"
+        android:pathData="M 24,54 L 84,54 M 54,24 L 54,84" />
+    <!-- Inner Diamond -->
+    <path
+        android:strokeColor="#F5D061"
+        android:strokeWidth="1.5"
+        android:pathData="M 39,39 L 69,39 L 69,69 L 39,69 Z" />
+    <!-- Central Solar-Lunar Spiritual Star Glyph -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M 54,44 L 56.5,51.5 L 64,54 L 56.5,56.5 L 54,64 L 51.5,56.5 L 44,54 L 51.5,51.5 Z" />
+    <!-- Four Corner Stars / Navagraha Bindus -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M 54,32 A 2.2,2.2 0 1,1 54,32.01 M 76,54 A 2.2,2.2 0 1,1 76,54.01 M 54,76 A 2.2,2.2 0 1,1 54,76.01 M 32,54 A 2.2,2.2 0 1,1 32,54.01" />
+</vector>
